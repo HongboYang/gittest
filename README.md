@@ -1,1 +1,4 @@
-# gittest
+public void main()
+{
+	print("abc")
+}
